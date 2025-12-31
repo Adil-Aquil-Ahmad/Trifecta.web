@@ -570,14 +570,14 @@
   align-items: center;
   padding: 0px;
   gap: 4px;
-  width: 271px;
+  width: 100%;
   min-height: 46px;
   flex: none;
   flex-grow: 0;
 }
 
 .credits-designers {
-  width: 271px;
+  width: 100%;
   min-height: 21px;
   font-family: 'Jersey 10';
   font-style: normal;
@@ -594,7 +594,7 @@
 }
 
 .credits-developer {
-  width: 271px;
+  width: 100%;
   min-height: 21px;
   font-family: 'Jersey 10';
   font-style: normal;
