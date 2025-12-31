@@ -141,3 +141,105 @@
   align-self: stretch;
   flex-grow: 0;
 }
+
+@media (max-width: 768px) {
+  .sponsors-page {
+    width: 390px;
+    padding: 26.25px 0;
+    gap: 15px;
+    margin: 0 auto;
+  }
+
+  .sponsors-content {
+    width: 390px;
+    gap: 20px;
+  }
+
+  .sponsor-tier {
+    width: 390px;
+    gap: 20px;
+  }
+
+  .sponsor-tier-title {
+    width: 390px;
+    height: 51px;
+    font-size: 48px;
+    line-height: 51px;
+  }
+
+  .sponsor-grid {
+    width: 390px;
+    padding: 0px 20px;
+    gap: 20px 40px;
+  }
+
+  .title-sponsors-grid {
+    padding: 0px 20px;
+    gap: 40px;
+    min-height: 156.5px;
+  }
+
+  .gold-sponsors-grid {
+    padding: 0px 20px;
+    gap: 20px 40px;
+    min-height: 333px;
+  }
+
+  .silver-sponsors-grid {
+    padding: 0px 20px;
+    gap: 20px 40px;
+    min-height: 686px;
+  }
+
+  .sponsor-card {
+    width: 100px;
+    height: 156.5px;
+    gap: 5.5px;
+  }
+
+  .sponsor-logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+  }
+
+  .sponsor-info {
+    width: 100px;
+    height: 51px;
+  }
+
+  .sponsor-name {
+    width: 100px;
+    height: 51px;
+    font-size: 16px;
+    line-height: 17px;
+  }
+}
+
+@media (max-width: 390px) {
+  .sponsors-page {
+    width: 390px;
+    max-width: 100%;
+  }
+
+  .sponsors-content {
+    width: 390px;
+    max-width: 100%;
+  }
+
+  .sponsor-tier {
+    width: 390px;
+    max-width: 100%;
+  }
+
+  .sponsor-tier-title {
+    width: 390px;
+    max-width: 100%;
+  }
+
+  .sponsor-grid {
+    width: 390px;
+    max-width: 100%;
+  }
+}
+
