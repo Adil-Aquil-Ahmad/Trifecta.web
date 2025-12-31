@@ -2,7 +2,7 @@
   "name": "mobilon-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mobilon-mobile-technologies.github.io/Trifecta.web",
+  "homepage": "https://trifectamobilon.tech",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
