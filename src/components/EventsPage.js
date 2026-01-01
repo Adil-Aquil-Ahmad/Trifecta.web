@@ -312,20 +312,18 @@ function EventsPage() {
                 <button className="timeline-btn details-btn" onClick={() => openEventDetails(events[0])}>
                   Details
                 </button>
-                <button className="timeline-btn register-btn" onClick={() => handleRegister(events[0].eventName)}>
-                  Register
-                </button>
+
               </div>
             </div>
             <div className={`timeline-center ${activeAnchor === 0 ? 'active' : ''}`}></div>
             <div className="timeline-image-container">
-              <div className="timeline-image"></div>
+              <img src="/PICS/events/registration.png" alt="Registration Opens" className="timeline-image" />
             </div>
           </div>
           
           <div className={`timeline-item ${activeAnchor === 1 ? 'active' : ''}`}>
             <div className="timeline-image-container">
-              <div className="timeline-image"></div>
+              <img src="/PICS/events/RTC.JPG" alt="Registration Opens" className="timeline-image" />
             </div>
             <div className={`timeline-center ${activeAnchor === 1 ? 'active' : ''}`}></div>
             <div className="timeline-content">
@@ -359,13 +357,13 @@ function EventsPage() {
             </div>
             <div className={`timeline-center ${activeAnchor === 2 ? 'active' : ''}`}></div>
             <div className="timeline-image-container">
-              <div className="timeline-image"></div>
+              <img src="/PICS/events/Hackathon.png" alt="Registration Opens" className="timeline-image" />
             </div>
           </div>
           
           <div className={`timeline-item ${activeAnchor === 3 ? 'active' : ''}`}>
             <div className="timeline-image-container">
-              <div className="timeline-image"></div>
+              <img src="/PICS/events/Pitchwave.JPG" alt="Registration Opens" className="timeline-image" />
             </div>
             <div className={`timeline-center ${activeAnchor === 3 ? 'active' : ''}`}></div>
             <div className="timeline-content">

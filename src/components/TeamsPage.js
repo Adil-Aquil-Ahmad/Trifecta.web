@@ -8,16 +8,16 @@ function TeamsPage() {
   const LeadOrganisers = [
     { name: 'Vasu Bhatia', post: 'President', image: '/PICS/Teams/vasu%20bhatia.jpg', linkedin: 'https://www.linkedin.com/in/vasu-bhatia/' },
     { name: 'Ashmit', post: 'Vice President', image: '/PICS/Teams/Ashmit.jpg', linkedin: null },
-    { name: 'Moksha', post: 'General Secretary', image: '/PICS/Teams/WhatsApp%20Image%202025-12-31%20at%2012.23.38%20AM.jpeg', linkedin: 'https://www.linkedin.com/in/moksha-sharma-a232bb21b/' },
+    { name: 'Moksha', post: 'General Secretary', image: '/PICS/Teams/moksh.jpeg', linkedin: 'https://www.linkedin.com/in/moksha-sharma-a232bb21b/' },
     { name: 'Parth Singh', post: 'Tech Master', image: '/PICS/Teams/Parth.jpg', linkedin: null },
   ];
 
   const organisingHeads = [
     { name: 'Riya', post: 'PR Head', image: '/PICS/Teams/riya.jpg', linkedin: null },
-    { name: 'Adil', post: 'Tech Head', image: '/PICS/Teams/WhatsApp%20Image%202026-01-01%20at%205.30.33%20PM.jpeg', linkedin: null },
+    { name: 'Adil', post: 'Tech Head', image: '/PICS/Teams/adil.png', linkedin: null },
     { name: 'Gauranvi', post: 'Creative Head', image: '/PICS/Teams/gauranvi.webp', linkedin: null },
     { name: 'Abhimanyu', post: 'UI Head', image: '/PICS/Teams/Abhi.jpeg', linkedin: null },
-    { name: 'Vishesh', post: 'Multimedia Head', image: '/PICS/Teams/Vishesh.jpg', linkedin: null },
+    { name: 'Vishesh', post: 'Multimedia Head', image: '/PICS/Teams/Vishesh.JPG', linkedin: null },
     { name: 'Anushka', post: 'Socialmedia Head', image: '/PICS/Teams/anushka.png', linkedin: null },
     { name: 'Alankrit', post: 'Operations Head', image: '/PICS/Teams/Alankrit.JPG', linkedin: null },
     { name: 'Sneha', post: 'Vigilance Head', image: '/PICS/Teams/sneha.jpg', linkedin: null },

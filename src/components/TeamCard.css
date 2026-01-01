@@ -67,3 +67,22 @@
   align-self: stretch;
   flex-grow: 0;
 }
+
+@media (max-width: 768px){
+
+  .member-post {
+    width: 150px;
+    height: auto;
+    font-family: 'Jersey 10';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 24px;
+    text-align: center;
+    color: #6768AB;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+  }
+}
