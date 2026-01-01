@@ -19,8 +19,8 @@ function TeamsPage() {
     { name: 'Abhimanyu', post: 'UI Head', image: '/PICS/Teams/Abhi.jpeg', linkedin: null },
     { name: 'Vishesh', post: 'Multimedia Head', image: '/PICS/Teams/Vishesh.jpg', linkedin: null },
     { name: 'Anushka', post: 'Socialmedia Head', image: '/PICS/Teams/anushka.png', linkedin: null },
-    { name: 'Alankrit', post: 'Operations Head', image: '/PICS/Teams/Alankrit.jpg', linkedin: null },
-    { name: 'Sneha', post: 'Vigilance Head', image: '/PICS/Teams/Sneha.jpg', linkedin: null },
+    { name: 'Alankrit', post: 'Operations Head', image: '/PICS/Teams/Alankrit.JPG', linkedin: null },
+    { name: 'Sneha', post: 'Vigilance Head', image: '/PICS/Teams/sneha.jpg', linkedin: null },
     { name: 'Adya', post: 'Hospitality Head', image: '/PICS/Teams/Adya.jpg', linkedin: null },
     { name: 'Akshat', post: 'Sponsorship Head', image: '/PICS/Teams/Akshat.webp', linkedin: null },
     { name: 'Prikshit', post: 'Mulimedia Co-Head', image: '/PICS/Teams/Prikshit.jpg', linkedin: null },
@@ -58,7 +58,7 @@ function TeamsPage() {
     { name: 'Riya', post: 'Hospitality Team', image: null, linkedin: null },
     { name: 'Gouri', post: 'Hospitality Team', image: '/PICS/Teams/gouri.jpg', linkedin: null },
     { name: 'Tanay', post: 'Hospitality Team', image: '/PICS/Teams/Tanay.jpg', linkedin: null },
-    { name: 'Saanvi', post: 'Hospitality Team', image: '/PICS/Teams/Saanvi.jpeg', linkedin: null },
+    { name: 'Saanvi', post: 'Hospitality Team', image: '/PICS/Teams/saanvi.jpeg', linkedin: null },
   ]
 
   const judgingTeam = Array(14).fill(null).map((_, i) => ({
