@@ -37,7 +37,7 @@
 
 .member-name {
   width: 150px;
-  height: 68px;
+  height: auto;
   font-family: 'Jersey 10';
   font-style: normal;
   font-weight: 400;
@@ -54,7 +54,7 @@
 
 .member-post {
   width: 150px;
-  height: 34px;
+  height: auto;
   font-family: 'Jersey 10';
   font-style: normal;
   font-weight: 400;

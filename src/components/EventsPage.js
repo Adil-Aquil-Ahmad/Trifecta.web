@@ -16,28 +16,28 @@ function EventsPage() {
     {
       id: 1,
       eventName: 'Registration Opens',
-      date: 'January 15, 2026',
+      date: 'January 7, 2026',
       time: '',
       description: 'Begin your journey by registering for the events'
     },
     {
       id: 2,
       eventName: 'The Round Table Conference',
-      date: 'January 26, 2026',
-      time: '18:00',
+      date: 'January 23, 2026',
+      time: '12:00',
       description: 'Join industry leaders, entrepreneurs, and innovators for insightful discussions on the future of technology and business. This conference brings together diverse perspectives to address the challenges and opportunities in the modern tech landscape.'
     },
     {
       id: 3,
       eventName: 'PitchWave Arena',
-      date: 'January 27, 2026',
-      time: '14:00',
-      description: 'Watch emerging entrepreneurs pitch their groundbreaking ideas to a panel of investors and mentors. This is your chance to witness innovation in action and see how the next generation of startups are shaping the future.'
+      date: 'January 23, 2026',
+      time: '15:00',
+      description: 'Watch emerging entrepreneurs pitch their groundbreaking ideas with a prototype to a panel of investors and mentors. This is your chance to witness innovation in action and see how the next generation of startups are shaping the future.'
     },
     {
       id: 4,
       eventName: 'The Tech Forge Hackathon',
-      date: 'January 28, 2026',
+      date: 'January 24-25, 2026',
       time: '09:00',
       description: 'A 24-hour coding marathon where developers, designers, and innovators collaborate to build solutions that matter. Form teams, tackle real-world problems, and compete for exciting prizes while learning from industry experts.'
     }
