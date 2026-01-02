@@ -21,9 +21,9 @@ function TeamsPage() {
     { name: 'Anushka', post: 'Socialmedia Head', image: '/PICS/Teams/anushka.png', linkedin: null },
     { name: 'Alankrit', post: 'Operations Head', image: '/PICS/Teams/Alankrit.JPG', linkedin: null },
     { name: 'Sneha', post: 'Vigilance Head', image: '/PICS/Teams/sneha.jpg', linkedin: null },
-    { name: 'Adya', post: 'Hospitality Head', image: '/PICS/Teams/Adya.jpg', linkedin: null },
+    { name: 'Adya', post: 'Hospitality Head', image: '/PICS/Teams/adya.jpeg', linkedin: null },
     { name: 'Akshat', post: 'Sponsorship Head', image: '/PICS/Teams/Akshat.webp', linkedin: null },
-    { name: 'Prikshit', post: 'Mulimedia Co-Head', image: '/PICS/Teams/Prikshit.jpg', linkedin: null },
+    { name: 'Prikshit', post: 'Mulimedia Co-Head', image: '/PICS/Teams/prikshit.png', linkedin: null },
   ];
 
   const organisingTeam = [

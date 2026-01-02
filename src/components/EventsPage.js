@@ -357,13 +357,13 @@ function EventsPage() {
             </div>
             <div className={`timeline-center ${activeAnchor === 2 ? 'active' : ''}`}></div>
             <div className="timeline-image-container">
-              <img src="/PICS/events/Hackathon.png" alt="Registration Opens" className="timeline-image" />
+              <img src="/PICS/events/Pitchwave.JPG" alt="Registration Opens" className="timeline-image" />
             </div>
           </div>
           
           <div className={`timeline-item ${activeAnchor === 3 ? 'active' : ''}`}>
             <div className="timeline-image-container">
-              <img src="/PICS/events/Pitchwave.JPG" alt="Registration Opens" className="timeline-image" />
+              <img src="/PICS/events/Hackathon.png" alt="Registration Opens" className="timeline-image" />
             </div>
             <div className={`timeline-center ${activeAnchor === 3 ? 'active' : ''}`}></div>
             <div className="timeline-content">
