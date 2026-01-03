@@ -66,6 +66,8 @@
   order: 1;
   align-self: stretch;
   flex-grow: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 @media (max-width: 768px){
@@ -84,5 +86,7 @@
     order: 1;
     align-self: stretch;
     flex-grow: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
   }
 }
