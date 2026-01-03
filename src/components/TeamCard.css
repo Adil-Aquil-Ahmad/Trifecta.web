@@ -20,6 +20,8 @@
   flex-grow: 0;
   background-size: cover;
   background-position: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .team-member-info {
@@ -68,6 +70,32 @@
   flex-grow: 0;
   white-space: pre-wrap;
   word-wrap: break-word;
+}
+
+.linkedin-badge {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 24px;
+  height: 24px;
+  background-color: #0A66C2;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.linkedin-badge:hover {
+  transform: scale(1.1);
+}
+
+.linkedin-badge svg {
+  width: 16px;
+  height: 16px;
 }
 
 @media (max-width: 768px){
