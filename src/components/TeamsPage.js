@@ -38,7 +38,7 @@ function TeamsPage() {
     { name: 'Nirali', post: 'Pr Team', image: '/PICS/Teams/nirali.jpeg', linkedin: 'https://www.linkedin.com/in/nirali-goyal-931002376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Anand', post: 'Sponsorship Team', image: '/PICS/Teams/anand.jpg', linkedin: null },
     { name: 'Harman', post: 'Sponsorship Team', image: '/PICS/Teams/harman.jpg', linkedin: null },
-    { name: 'Naina', post: 'Tech Team', image: '/PICS/Teams/Naina.jpg', linkedin: null },
+    { name: 'Naina', post: 'Tech Team', image: '/PICS/Teams/Naina.jpg', linkedin: 'https://www.linkedin.com/in/naina-jain-421a9a369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Anmol', post: 'Tech Team', image: '/PICS/Teams/Anmol.jpg', linkedin: null },
     { name: 'Dwij', post: 'Tech Team', image: '/PICS/Teams/Dwij.jpg', linkedin: null },
     { name: 'Prakhar', post: 'Operations Team', image: '/PICS/Teams/Prakhar.jpg', linkedin: 'https://www.linkedin.com/in/prakhar-tiwari-bb874a391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
