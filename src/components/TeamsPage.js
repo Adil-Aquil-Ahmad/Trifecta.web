@@ -19,7 +19,7 @@ function TeamsPage() {
     { name: 'Arindam', post: 'Tech\nCo-Head', image: '/PICS/Teams/Arindam.jpg', linkedin: null },
     { name: 'Laksh', post: 'Tech\nCo-Head', image: '/PICS/Teams/Laksh.jpg', linkedin: null },
     { name: 'Gauranvi', post: 'Creative\nHead', image: '/PICS/Teams/gauranvi.webp', linkedin: null },
-    { name: 'Vishesh', post: 'Multimedia\nHead', image: '/PICS/Teams/Vishesh.JPG', linkedin: null },
+    { name: 'Vishesh', post: 'Multimedia\nHead', image: '/PICS/Teams/Vishesh.jpg', linkedin: null },
     { name: 'Prikshit', post: 'Mulimedia\nCo-Head', image: '/PICS/Teams/prikshit.png', linkedin: null },
     { name: 'Anushka', post: 'Socialmedia\nHead', image: '/PICS/Teams/anushka.png', linkedin: null },
     { name: 'Alankrit', post: 'Operations\nHead', image: '/PICS/Teams/Alankrit.JPG', linkedin: null },
