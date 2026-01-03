@@ -9,7 +9,7 @@ function SponsorsPage() {
   const MMarketMafia = [
     { name: 'Market Mafiaa \nConnections Partner', logo: '/PICS/Sponsors/6th%20logo.jpg' },
     { name: 'OppSkills \nPlatform Partner', logo: '/PICS/Sponsors/Square%20color%20Single%20Tag.svg' },
-    { name: 'GlobalCert \nCertification Partner', logo: '/PICS/Sponsors/GlobalCert_Logo_No_Background.png' },
+    { name: 'GlobalCert \nCertification Partner', logo: '/PICS/Sponsors/GlobalCert_Logo_No_Background2.png' },
     { name: 'Five \nGifting Partner', logo: '/PICS/Sponsors/5.jpeg' },
   ];
 
