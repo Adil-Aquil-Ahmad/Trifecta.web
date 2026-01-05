@@ -48,7 +48,7 @@ function TeamsPage() {
     { name: 'Sakshi', post: 'Vigilance Team', image: '/PICS/Teams/Sakshi.png', linkedin: 'https://www.linkedin.com/in/sakshi-yadav-90032039a' },
     { name: 'Rashi', post: 'Vigilance Team', image: '/PICS/Teams/Rashi.jpg', linkedin: null },
     { name: 'Pragyadeep', post: 'Vigilance Team', image: null, linkedin: null },
-    { name: 'Ekisha', post: 'Multimedia Team', image: '/PICS/Teams/Ekisha.png', linkedin: 'https://www.linkedin.com/in/ekisha-bisht-ba281a361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app' },
+    { name: 'Ekisha', post: 'Multimedia Team', image: '/PICS/Teams/Ekisha.PNG', linkedin: 'https://www.linkedin.com/in/ekisha-bisht-ba281a361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app' },
     { name: 'Akshat', post: 'Social Media Team', image: '/PICS/Teams/AkshatGarg.jpg', linkedin: null },
     { name: 'Ananya', post: 'Social Media Team', image: '/PICS/Teams/Ananyagoel.jpg', linkedin: 'https://www.linkedin.com/in/ananya-goel-610607345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Rupesh', post: 'Creative Team', image: '/PICS/Teams/Rupesh.png', linkedin: 'https://www.linkedin.com/in/rupesh-yadav-911211369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
