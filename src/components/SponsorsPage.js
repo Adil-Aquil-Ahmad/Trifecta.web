@@ -9,8 +9,9 @@ function SponsorsPage() {
   const MMarketMafia = [
     { name: 'Market Mafiaa \nConnections Partner', logo: '/PICS/Sponsors/6th%20logo.jpg' },
     { name: 'OppSkills \nPlatform Partner', logo: '/PICS/Sponsors/Square%20color%20Single%20Tag.svg' },
-    { name: 'GlobalCert \nCertification Partner', logo: '/PICS/Sponsors/GlobalCert_Logo_No_Background2.png' },
-    { name: 'Five \nGifting Partner', logo: '/PICS/Sponsors/5.jpeg' },
+    { name: 'GlobalCert \nCertification Partner', logo: '/PICS/Sponsors/global.png' },
+    { name: 'Five Minutes of Beauty\nGifting Partner', logo: '/PICS/Sponsors/5.jpeg' },
+    { name: 'Mystique \nMerching Partner', logo: '/PICS/Sponsors/mystique.jpeg' },
   ];
 
   // const goldSponsors = Array(4).fill(null).map((_, i) => ({
