@@ -9,7 +9,7 @@ function TeamsPage() {
     { name: 'Vasu Bhatia', post: 'President', image: '/PICS/Teams/vasu%20bhatia.jpg', linkedin: 'https://www.linkedin.com/in/vasu-bhatia/' },
     { name: 'Ashmit', post: 'Vice President', image: '/PICS/Teams/Ashmit2.jpg', linkedin: 'https://www.linkedin.com/in/ashmit-sharma-b75450322/' },
     { name: 'Moksha', post: 'General Secretary', image: '/PICS/Teams/moksh.jpeg', linkedin: 'https://www.linkedin.com/in/moksha-sharma-a232bb21b/' },
-    { name: 'Parth Singh', post: 'Tech Master', image: '/PICS/Teams/Parth.jpg', linkedin: null },
+    { name: 'Parth Singh', post: 'Tech Master', image: '/PICS/Teams/Parth.jpg', linkedin: 'https://www.linkedin.com/in/parth-singh-b30517352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
   ];
 
   const organisingHeads = [
@@ -23,7 +23,7 @@ function TeamsPage() {
     { name: 'Vishesh', post: 'Multimedia\nHead', image: '/PICS/Teams/Vishesh.jpg', linkedin: 'https://www.linkedin.com/in/vishesh-gautam-823699228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app' },
     { name: 'Prikshit', post: 'Mulimedia\nCo-Head', image: '/PICS/Teams/prikshit.png', linkedin: 'https://linkedin.com/in/prikshit-sharma-1a2ba5322' },
     { name: 'Anushka', post: 'Socialmedia\nHead', image: '/PICS/Teams/anushka.png', linkedin: null },
-    { name: 'Alankrit', post: 'Operations\nHead', image: '/PICS/Teams/Alankrit.JPG', linkedin: null },
+    { name: 'Alankrit', post: 'Operations\nHead', image: '/PICS/Teams/Alankrit.JPG', linkedin: 'https://www.linkedin.com/in/alankrit-jain-161b742a5/' },
     { name: 'Anika', post: 'Operations\nCo-Head', image: '/PICS/Teams/AnikaAgarwal.jpg', linkedin: 'https://www.linkedin.com/in/anika-agarwal-28088537a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Sneha', post: 'Vigilance\nHead', image: '/PICS/Teams/sneha.jpg', linkedin: 'https://www.linkedin.com/in/sneha-jivnani-7241a6231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app' },
     { name: 'Kshitij', post: 'Vigilance\nCo-Head', image: '/PICS/Teams/Kshitij.jpg', linkedin: 'https://www.linkedin.com/in/kshitij-dubey-479300382/' },
@@ -43,7 +43,7 @@ function TeamsPage() {
     { name: 'Dwij', post: 'Tech Team', image: '/PICS/Teams/Dwij.jpg', linkedin: 'https://www.linkedin.com/in/dwij-dalmia/' },
     { name: 'Prakhar', post: 'Operations Team', image: '/PICS/Teams/Prakhar.jpg', linkedin: 'https://www.linkedin.com/in/prakhar-tiwari-bb874a391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Vaasu', post: 'Operations Team', image: '/PICS/Teams/Vaasu.jpg', linkedin: 'https://www.linkedin.com/in/vaasudeepkohli' },
-    { name: 'Mansi', post: 'Operations Team', image: null, linkedin: null },
+    { name: 'Mansi', post: 'Operations Team', image: '/PICS/Teams/mans.jpeg', linkedin: 'https://www.linkedin.com/in/mansi-verma-2569aa2bb' },
     { name: 'Anshika', post: 'Vigilance Team', image: '/PICS/Teams/anshika.jpg', linkedin: null },
     { name: 'Sakshi', post: 'Vigilance Team', image: '/PICS/Teams/Sakshi.png', linkedin: 'https://www.linkedin.com/in/sakshi-yadav-90032039a' },
     { name: 'Rashi', post: 'Vigilance Team', image: '/PICS/Teams/Rashi.jpg', linkedin: null },
