@@ -21,7 +21,7 @@ function TeamsPage() {
     { name: 'Gauranvi', post: 'Creative\nHead', image: '/PICS/Teams/gauranvi.webp', linkedin: 'https://www.linkedin.com/in/gauranvi-mehra-68619a322/' },
     { name: 'Abhimanyu', post: 'Creative\nCo-Head', image: '/PICS/Teams/Abhi.jpeg', linkedin: 'https://www.linkedin.com/in/abhimanyu-narang/' },
     { name: 'Vishesh', post: 'Multimedia\nHead', image: '/PICS/Teams/Vishesh.jpg', linkedin: 'https://www.linkedin.com/in/vishesh-gautam-823699228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app' },
-    { name: 'Prikshit', post: 'Mulimedia\nCo-Head', image: '/PICS/Teams/prikshit.png', linkedin: 'https://linkedin.com/in/prikshit-sharma-1a2ba5322' },
+    { name: 'Prikshit', post: 'Multimedia\nCo-Head', image: '/PICS/Teams/prikshit.png', linkedin: 'https://linkedin.com/in/prikshit-sharma-1a2ba5322' },
     { name: 'Anushka', post: 'Socialmedia\nHead', image: '/PICS/Teams/anushka.png', linkedin: null },
     { name: 'Alankrit', post: 'Operations\nHead', image: '/PICS/Teams/Alankrit.JPG', linkedin: 'https://www.linkedin.com/in/alankrit-jain-161b742a5/' },
     { name: 'Anika', post: 'Operations\nCo-Head', image: '/PICS/Teams/AnikaAgarwal.jpg', linkedin: 'https://www.linkedin.com/in/anika-agarwal-28088537a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
