@@ -187,6 +187,24 @@
   align-self: stretch;
   flex-grow: 0;
   margin: 0;
+  text-align: center;
+}
+
+.team-section-title-head{
+  width: 1200px;
+  height: 69px;
+  font-family: 'Jersey 10';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 69px;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  align-self: center;
+  flex-grow: 0;
+  margin: 0;
+  text-align: center;
 }
 
 .team-scroll-container {
@@ -232,6 +250,18 @@
   position: absolute;
   height: 309px;
   left: 0px;
+  top: 0px;
+}
+
+.team-cards-row-head{
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 200px 0px 0px;
+  gap: 40px;
+  position: absolute;
+  height: 309px;
+  left: 250px;
   top: 0px;
 }
 
