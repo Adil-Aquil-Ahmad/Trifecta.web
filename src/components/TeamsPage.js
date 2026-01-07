@@ -47,7 +47,7 @@ function TeamsPage() {
     { name: 'Anshika', post: 'Vigilance Team', image: '/PICS/Teams/anshika.jpg', linkedin: null },
     { name: 'Sakshi', post: 'Vigilance Team', image: '/PICS/Teams/Sakshi.png', linkedin: 'https://www.linkedin.com/in/sakshi-yadav-90032039a' },
     { name: 'Rashi', post: 'Vigilance Team', image: '/PICS/Teams/Rashi.jpg', linkedin: null },
-    { name: 'Pragyadeep', post: 'Vigilance Team', image: '/PICS/Teams/Pragyadeep.jpeg', linkedin: 'https://www.linkedin.com/in/pragydeep-shrivastava-8b3a76240/' },
+    { name: 'Pragydeep', post: 'Vigilance Team', image: '/PICS/Teams/Pragydeep.jpeg', linkedin: 'https://www.linkedin.com/in/pragydeep-shrivastava-8b3a76240/' },
     { name: 'Akshat', post: 'Social Media Team', image: '/PICS/Teams/AkshatGarg.jpg', linkedin: null },
     { name: 'Ananya', post: 'Social Media Team', image: '/PICS/Teams/Ananyagoel.jpg', linkedin: 'https://www.linkedin.com/in/ananya-goel-610607345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { name: 'Khwahish', post: 'Hospitality Team', image: '/PICS/Teams/kwahish.jpg', linkedin: null },
